@@ -18,6 +18,7 @@ Los datos se han extraído del sitio web disponible públicamente en sofifa.com.
 
 ## Objetivo 📌
 Segmentación de jugadores: agrupar a los jugadores en clusters basados en sus características, como la posición, la puntuación general, la edad, el valor de mercado, etc. El objetivo es analizar estas variables con el valor de venta en euros de los jugadores y comparar resultados.
+Se analizará cómo estas variables se relacionan con el valor de venta en euros de los jugadores, con el fin de identificar patrones y tendencias que puedan influir en la valoración y comercialización de los jugadores.
 
 
 ## Diccionario de Datos 📄
